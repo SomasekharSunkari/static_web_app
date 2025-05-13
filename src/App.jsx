@@ -12,7 +12,7 @@ export default function App() {
       <Router>
         <div className="min-h-screen w-full bg-gradient-to-r from-purple-100 to-blue-100">
           <nav className="bg-white shadow-lg p-4 flex justify-between items-center sticky top-0 z-50">
-            <h1 className="text-2xl font-extrabold text-purple-700">🛒 MyShop</h1>
+            <h1 className="text-2xl font-extrabold text-purple-700">🛒 MyShop - Sekhar's</h1>
             <div className="space-x-6">
               <Link to="/" className="text-blue-600 font-medium hover:underline">Home</Link>
               <Link to="/products" className="text-blue-600 font-medium hover:underline">Products</Link>
